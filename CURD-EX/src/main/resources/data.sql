@@ -1,0 +1,1 @@
+INSERT INTO STUDENT  (id,age,firstname,lastname,email)values(20,17,'shree','jshd','shrdfg@gmail.com'),(30,27,'gund','dhsgd','shfd@gmail.com');
